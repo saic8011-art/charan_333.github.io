@@ -2,3 +2,4 @@ title: Venkata Sai Charan Manthripragada
 logo: 1742426389172.jpg
 theme: jekyll-dash
 gem 'jekyll-dash', '~> 1'
+gem 'jekyll-dash', '~> 2'
