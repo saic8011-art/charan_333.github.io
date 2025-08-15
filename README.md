@@ -22,9 +22,9 @@ Mentor peers in industrial engineering practices, documentation, and analytics
 ## MY PORTFOLIO 
 EXPERIENCE
 
-Research Technician Texas A&M University | Mar 2024 – Present
+>Research Technician Texas A&M University | Mar 2024 – Present
 
-Led the integration of FANUC and Universal Robots, aligning with design principles for scalable automation.
+.Led the integration of FANUC and Universal Robots, aligning with design principles for scalable automation.
 Redesigned workflows, boosting throughput 20% and reducing cycle time by 15% through effective documentation.
 
 Industrial Engineering Intern Minto.ai | Oct 2022 – Feb 2023
