@@ -25,21 +25,26 @@ Research Technician
 Texas A&M University | Mar 2024 – Present
 Led the integration of FANUC and Universal Robots, aligning with design principles for scalable automation.
 Redesigned workflows, boosting throughput 20% and reducing cycle time by 15% through effective documentation.
+
 Industrial Engineering Intern
 Minto.ai | Oct 2022 – Feb 2023
 Deployed spiderAI and iHz sensors for predictive maintenance, preventing over 57,000-unit losses.
 Enhanced machine uptime by 70% through diagnosis and redesign of high-failure equipment.
 Developed Power BI dashboards for KPI tracking, integrating SAP ERP data.
+
 Manufacturing Engineering Intern
 BHEL | May 2022 – Sep 2022
 Led Lean Six Sigma DMAIC project, eliminating compressor delays and improving OEE by 18%.
 Applied TPM, 5S, and Kaizen in compressor assembly, resulting in a 15% reduction in setup time.
 Supported quality audits for ISO 9001 and GMP compliance.
+
 PROJECTS
 Random Forest Model for Mask-Wearing Prediction
 Built a machine learning model to predict behavioral patterns, achieving an 18% accuracy improvement and rapid solution delivery.
+
 CNC Material Staging Optimization – Rochester Sensors
 Redesigned CNC material staging using value stream mapping to increase process efficiency by 15% and target a 20% reduction in inventory.
+
 Swarm Algorithm for Production Scheduling
 Developed a Python-based Tunicate Swarm Algorithm for mass-customized manufacturing, improving machine utilization and cutting lead times by 12%.
 
