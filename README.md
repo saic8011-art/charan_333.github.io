@@ -66,7 +66,6 @@ Developed a Python-based Tunicate Swarm Algorithm for mass-customized manufactur
       <td><a href=https://www.linkedin.com/in/venkata-sai-charan-manthripragada-41b28321b/>Download my CV</a></td>  
     </tr>
     <tr>
-      <td>📺</td>
       </tr>
   </tbody>
 </table>
