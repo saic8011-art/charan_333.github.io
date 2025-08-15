@@ -1,5 +1,42 @@
-title: Venkata Sai Charan Manthripragada
-logo: 1742426389172.jpg
+title: "Venkata Sai Charan Manthripragada"
+description: "Your brief site description"
+url: "https://your-site-url"   # Replace with your real site URL
+baseurl: ""                    # Leave empty unless using a subdirectory
+
 theme: jekyll-dash
-gem 'jekyll-dash', '~> 1'
-gem 'jekyll-dash', '~> 2'
+
+# Pagination (optional, adjust as needed)
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Tagging (optional, requires jekyll-tagging plugin)
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# Dash theme custom options
+dash:
+  date_format: "%b %-d, %Y"  # e.g., Aug 14, 2025
+  animation_speed: 50
+  rtl: false
+  show_author: true
+
+  # Logo configuration (make sure your logo is placed in /assets/ directory)
+  avatar_source: local
+  avatar_path: /assets/1742426389172.jpg
+
+  # (optional) Disqus (for comments)
+  disqus:
+    shortname: your-disqus-shortname  # Fill if using Disqus, otherwise omit
+
+  # Social links examples
+  social_links:
+    - url: https://twitter.com/your_handle
+      icon: twitter-square
+      color: cyan
+    - url: https://github.com/your_handle
+      icon: github-square
+      color: purple
+
+# If using a custom domain, uncomment and customize:
+# include: [CNAME]
