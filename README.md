@@ -21,7 +21,9 @@ Mentor peers in industrial engineering practices, documentation, and analytics
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 EXPERIENCE
+
 Research Technician
+
 Texas A&M University | Mar 2024 – Present
 Led the integration of FANUC and Universal Robots, aligning with design principles for scalable automation.
 Redesigned workflows, boosting throughput 20% and reducing cycle time by 15% through effective documentation.
